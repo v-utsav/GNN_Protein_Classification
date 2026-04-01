@@ -14,6 +14,7 @@ as a graph. The amino acids are represented by the nodes and their 3D positions,
 edges are formed based on proximity, sequence order, and chemical interactions. 
 
 Input files:
+
 sequences.txt: Amino acids can be represented by their full name, a three letter code
 or a one-letter-code, which we will use here. It assigns a letter of the alphabet to
 each of the common amino acids. This file contains the amino acid sequences of
